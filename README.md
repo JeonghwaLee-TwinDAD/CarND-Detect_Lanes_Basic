@@ -1,8 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup
-
-The file is in repository [Github](https://github.com/JeonghwaLee-TwinDAD/CarND-Detect_Lanes_Basic)
+The file is in repository [Github](https://github.com/JeonghwaLee-TwinDAD/CarND-Detect_Lanes_Basic/test_videos)
 
 ---
 
