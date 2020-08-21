@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-The file is in repository [Github](https://github.com/JeonghwaLee-TwinDAD/CarND-Detect_Lanes_Basic/test_videos)
+The file is in repository [Github](https://github.com/JeonghwaLee-TwinDAD/CarND-Detect_Lanes_Basic/test_videos/solidYellowLeft.mp4)
 
 ---
 
