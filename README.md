@@ -2,7 +2,7 @@
 
 ## Writeup
 
-The file is in repository [Github](http://Github.com/JeonghwaLee-TwinDAD)
+The file is in repository [Github](https://github.com/JeonghwaLee-TwinDAD/CarND-Detect_Lanes_Basic)
 
 ---
 
